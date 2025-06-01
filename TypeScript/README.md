@@ -38,7 +38,7 @@ npm start
 
 ## Author
 
-- [Your Name](https://github.com/mansiluca)
+- [Luca Mansi](https://github.com/mansiluca)
 
 ---
 
