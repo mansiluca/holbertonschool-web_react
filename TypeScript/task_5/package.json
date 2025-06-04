@@ -6,8 +6,8 @@
   "type": "module",
   "mode": "development",
   "scripts": {
-    "start-dev": "webpack-dev-server --config webpack.config.cjs",
-    "build": "webpack --config webpack.config.cjs",
+    "start-dev": "webpack-dev-server",
+    "build": "webpack",
     "test": "jest"
   },
   "keywords": [],
